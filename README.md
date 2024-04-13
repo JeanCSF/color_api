@@ -1,5 +1,6 @@
 # COLOR API
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Descrição
 Este projeto é uma API que retorna os nomes das cores em português. A ideia para a criação desta API surgiu da necessidade de encontrar uma fonte de cores em português gratuitamente, já que as opções disponíveis eram todas pagas. Os dados das cores foram obtidos a partir da [Lista de cores na Wikipedia](https://pt.wikipedia.org/wiki/Lista_de_cores).
@@ -50,3 +51,5 @@ Resposta:
 ## Contribuição
 Contribuições são bem-vindas! Se você quiser adicionar mais cores, corrigir bugs ou melhorar a documentação, sinta-se à vontade para fazer um pull request.
 
+## Licença
+Este projeto está licenciado sob a [Licença MIT](LICENSE).

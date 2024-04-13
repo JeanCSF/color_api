@@ -4,7 +4,7 @@ const swaggerJsdoc = require('swagger-jsdoc');
 
 const colors = require('./src/colors.json');
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 const options = {
     definition: {
